@@ -7,7 +7,7 @@
   </p>
  
   
-<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
+<a href="https://whatsapp.com/channel/0029Vb1tSyeHltY8PJcNtE2E>
  <img alt="KANTANKA" height="300" src="https://files.catbox.moe/bdjmrd.jpg">
  
   

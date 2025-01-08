@@ -196,14 +196,14 @@ All Information About Me
 
 ---
 
-***NOW DELAY AFTER DEPLOY IS FIXED THANKS FOR  [`IBRAHIM ADAMS`](https://github.com/ibrahimaitech) 👍🥂 stay using Lucky Md***
+***NOW DELAY AFTER DEPLOY IS FIXED THANKS FOR  [`IBRAHIM ADAMS`](https://github.com/ibrahimaitech) 👍🥂 stay using KANTANKA Md***
    
 
 
 
 ## License
 
-The WhatsApp Bot 𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot KANTANKA 𝕄𝔻 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 
 
